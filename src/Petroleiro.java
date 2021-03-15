@@ -16,8 +16,8 @@ public class Petroleiro extends Navio
     }
 
     /**
-     *
-     * @return carga navio
+     * Get da Carga
+     * @return
      */
     public float getCarga() 
     {
@@ -25,7 +25,7 @@ public class Petroleiro extends Navio
     }
 
     /**
-     *
+     * Set da Carga
      * @param carga
      */
     public void setCarga(float carga) 
