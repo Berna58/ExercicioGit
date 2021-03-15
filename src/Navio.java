@@ -18,8 +18,8 @@ public class Navio
     }
 
     /**
-     * 
-     * @return matricula navio
+     * Get da Matricula
+     * @return
      */
     public String getMatricula() 
     {
@@ -27,8 +27,8 @@ public class Navio
     }
 
     /**
-     *
-     * @return nome navio
+     * Get do Nome
+     * @return
      */
     public String getNome() 
     {
@@ -36,8 +36,8 @@ public class Navio
     }
 
     /**
-     *
-     * @return comprimento navio
+     * Get do Comprimento
+     * @return
      */
     public float getComprimento() 
     {
@@ -45,7 +45,7 @@ public class Navio
     }
 
     /**
-     *
+     * Set do Nome
      * @param nome
      */
     public void setNome(String nome) 
@@ -54,7 +54,7 @@ public class Navio
     }
 
     /**
-     *
+     * Set do Comprimento
      * @param comprimento
      */
     public void setComprimento(float comprimento) 
